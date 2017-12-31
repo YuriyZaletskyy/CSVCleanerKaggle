@@ -2,7 +2,7 @@
 I've decided to participate in following Kaggle competition:
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
-It has some data set. 
+It cleans learning data set and validating data set.
 I've created C# application that allows to create cleaner data representation of initial file.
 It does the following:
 1. Merges all lines related to single id into one line of text
